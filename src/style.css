@@ -1,0 +1,84 @@
+body {
+    background-color: hsl(216, 50%, 16%);
+    font-family: "Outfit", cursive;
+        
+}
+
+.corpo{
+    background-color: hsl(215, 32%, 27%);
+    border-radius: 2%;
+    width: 350px;
+    margin: auto;
+    margin-top: 50px;
+    
+      
+}
+
+.logo {
+    text-align: center;
+}
+
+
+.logo img{
+    width: 310px;
+    margin-top: 20px;
+    border-radius: 2%;
+}
+
+
+
+.texto-principal{
+    margin: 20px;
+}
+
+.texto-principal .titulo{
+    color:hsl(0, 0%, 100%);
+}
+
+.texto-principal .texto {
+    font-size: 18px;
+    color:  hsl(215, 51%, 70%);
+}
+.dados{
+    display: flex;
+    gap: 109px;
+    border-bottom: 1px white solid;
+}
+
+.dados .valor {
+    color: hsl(178, 100%, 50%);
+    font-size: 18px;
+}
+
+.dados .valor img{
+    width: 10px;
+}
+
+.dados .dia {
+    color:  hsl(215, 51%, 70%);
+    font-size: 18px;
+}
+
+.creation {
+    padding-bottom: 20px;
+    color:hsl(0, 0%, 100%);
+    font-size: 12px;
+}
+
+.parte-um-creation{
+    color:  hsl(215, 51%, 70%);
+}
+
+.creation img{
+   width: 20px;
+   margin-right: 10px;
+   border: 1px solid white;
+   border-radius: 100%;
+}
+
+.creation h3 {
+    display: flex;
+    align-items: center;
+}
+
+
